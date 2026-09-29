@@ -52,7 +52,7 @@ This repository tracks notable **SaaS platforms** and **open-source software** f
 
 ## 💻 Open-Source GitHub Projects 🔓
 
-Below is a curated list of active open-source brand asset management and digital asset management repositories, sorted descending by GitHub star count ⭐:
+Below is a curated list of active open-source brand asset management and digital asset management repositories, sorted descending by GitHub Stars_Count ⭐:
 
 1. **[Immich](https://github.com/immich-app/immich)** <a href="https://github.com/immich-app/immich/stargazers"><img src="https://img.shields.io/github/stars/immich-app/immich?style=social&color=white" alt="Stars"/></a>  
    High-performance self-hosted media and photo asset backup solution with AI-powered tagging, face recognition, and multi-device sync. 📸📱
@@ -104,7 +104,7 @@ Contributions from the community are warmly welcome! 🙌
 
 1. **Fork** the repository 🍴
 2. **Add or edit** entries in `README.md` following the standard table/list format.
-3. Ensure you include: Project Name, Official Link, Star Badge (for open-source), clear summary, and accurate pricing/metrics.
+3. Ensure you include: Project Name, Official Link, Stars_Badge (for open-source), clear summary, and accurate pricing/metrics.
 4. Submit a **Pull Request (PR)** with a clear title describing your changes! 🚀
 
 ---
